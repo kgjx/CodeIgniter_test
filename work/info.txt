@@ -1,1 +1,3 @@
-xampp\htdocs\xampp\work
+CodeIgniter: ... xampp\htdocs\xampp\work
+
+phpmyadmin: ... xampp\phpmyadmin
